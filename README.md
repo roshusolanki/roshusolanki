@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python projects**
 
-- 🌱 I’m currently learning **React JS and Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **roshu.solanki@gmail.com**
 
